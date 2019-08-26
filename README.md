@@ -1,5 +1,5 @@
 # rocket_says_woof
-For reagan from rocket
+From Rocket
 
 This has been my process this far:      
 Set up a grid to position everything.  
