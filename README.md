@@ -1,6 +1,8 @@
 # rocket_says_woof
 From Rocket
 
+***IMPORTANT***: Change SCREEN_HEIGHT and SCREEN_WIDTH values to fit the size of your screen
+
 This has been my process this far:      
 Set up a grid to position everything.  
 Finished a simple pathfinding algorithm and added walls to create the path.  
