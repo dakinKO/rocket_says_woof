@@ -11,3 +11,7 @@ Created Levels class to incorporate planned waves of enemies.
 Created a Messages class for easy text rendering and blitting.  
 Created a User Info class to hold info such as lives, level, wave, ...  
 Created a GG screen for when you run out of lives.  
+Added a menu for the towers
+Created a Tower class to hold tower stats and specs
+Created a Bullet class to create and move bullets with a target sprite in the tower's range
+Did finishing touches for the first functional version!
